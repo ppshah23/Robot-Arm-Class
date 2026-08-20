@@ -1,11 +1,21 @@
+
+
+
+Readme · MD
 # Robot Arm Class
-
+ 
 This repo is the source of all curriculum content for the **Robot Arm Class** PowerPoint slides taught to students.
-
+ 
 ## Repository Structure
-
+ 
 The following directory structure shows how the slides and `.ino` files are organized. Regarding `.ino` files, challenge files are distinctly labeled with `_Challenge` in the filename and live in a separate `Challenges/` folder from their corresponding `Answers/`.
 
+## Accessing the Day1-5 Slides
+ 
+The `Day1-5 Slides/` PowerPoint files are not stored directly in this repo. Access them via Google Drive:
+ 
+📂 [Day1-5 Slides — Google Drive](https://drive.google.com/drive/u/0/folders/1Hv87ZrYGFtG55UG-RDzpyUTHIBa1PnCL)
+ 
 ```
 Robot-Arm-Class/
 ├── Prachi - Robot Arm Week 2 Curriculum/
@@ -14,12 +24,7 @@ Robot-Arm-Class/
 │   │   │   └── ...
 │   │   └── Challenges/
 │   │       └── ...
-│   ├── Day1-5 Slides/
-│   │   ├── Day1.pptx
-│   │   ├── Day2.pptx
-│   │   ├── Day3.pptx
-│   │   ├── Day4.pptx
-│   │   └── Day5.pptx
+│   ├── Day1-5 Slides/  (hosted on Google Drive — see note below)
 │   └── Joystick-Servo Challenges + Answers/
 │       ├── Answers/
 │       │   ├── Joystick controls servo.ino
@@ -42,3 +47,4 @@ Robot-Arm-Class/
 │                   └── ...
 └── README.md
 ```
+ 
